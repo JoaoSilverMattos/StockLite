@@ -33,5 +33,5 @@ O repositório inclui os seguintes artefatos de modelagem:
 
 ## Como Visualizar
 
-Os diagramas e a descrição técnica completa estão disponíveis no documento PDF `entrega_final_stocklite_final.pdf` presente neste repositório.
+Os diagramas e a descrição técnica completa estão disponíveis no documento PDF `StockLite_Praticas_3` presente neste repositório.
 
