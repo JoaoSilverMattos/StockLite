@@ -35,6 +35,3 @@ O repositório inclui os seguintes artefatos de modelagem:
 
 Os diagramas e a descrição técnica completa estão disponíveis no documento PDF `entrega_final_stocklite_final.pdf` presente neste repositório.
 
-## Contato
-
-Para dúvidas ou mais informações sobre o projeto, entre em contato com os membros da equipe.
